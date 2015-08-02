@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onasadhya1"
+            android:layout_weight="0.02" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_alignParentTop="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="45dp"
+            android:text="ഓണം സദ്യ "
+            android:textStyle="bold"
+            android:textColor="#ff0000ff" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണത്തിന്റെ പ്രധാനാകർഷണം ഓണസദ്യയാണ്‌. 'ഉണ്ടറിയണം ഓണം' എന്നാണ്‌ വയ്പ്‌. ആണ്ടിലൊരിക്കൽ പപ്പടവും ഉപ്പേരിയും കൂട്ടാനുള്ള അവസരമായിരുന്നു പണ്ടൊക്കെ സാധാരണക്കാരന്‌ ഓണം. കാളൻ, ഓലൻ, എരിശ്ശേരി എന്നിവയാണ്‌ ഓണസദ്യയിൽ പ്രധാന വിഭവങ്ങൾ. അവിയലും സാമ്പാറും പിന്നീട്‌ വന്നതാണ്‌. നാലുകൂട്ടം ഉപ്പിലിട്ടതാണ്‌ കണക്ക്‌- കടുമാങ്ങ, നാരങ്ങ, ഇഞ്ചിപ്പുളി, ഇഞ്ചിതൈര്‌. പപ്പടം ഇടത്തരം ആയിരിക്കും. 10 പലക്കാരൻ, 12 പലക്കാരൻ എന്നിങ്ങനെ പപ്പടക്കണക്ക്‌. ഉപ്പേരി നാലുവിധം- ചേന, പയർ‌, വഴുതനങ്ങ, പാവക്ക, ശർക്കരപുരട്ടിക്ക്‌ പുറമേ പഴനുറുക്കും പഴവും പാലടയും പ്രഥമനും.
+"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="ഓണസദ്യ വിളമ്പുന്നവിധം
+"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sadhya7"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="വിളമ്പുന്നതിനും പ്രത്യേകതയുണ്ട്‌. നാക്കില തന്നെ വേണം ഓണസദ്യക്ക്‌. നാക്കിടത്തുവശം വരുന്ന രീതിയിൽ ഇല വയ്ക്കണം[ നാക്കില(വാഴയില)യുടെ തലഭാഗം(വീതി കുറഞ്ഞവശം) ഉണ്ണുന്ന ആളിന്റെ ഇടത്തുവശത്തായിരിക്കണം].
+
+ഇടതുമുകളിൽ ഉപ്പേരി, വലതുതാഴെ ശർക്കര ഉപ്പേരി, ഇടത്ത്‌ പപ്പടം, വലത്ത്‌ കാളൻ, ഓലൻ, എരിശ്ശേരി, നടുക്ക്‌ ചോറ്‌, നിരന്ന്‌ ഉപ്പിലിട്ടത്‌.
+മദ്ധ്യതിരുവതാംകൂറിൽ ആദ്യം പരിപ്പുകറിയാണ്‌ വിളമ്പാറ്‌. സാമ്പാറും പ്രഥമനും കാളനും പുറമേ പച്ചമോര്‌ നിർബന്ധം. സദ്യ പലവട്ടങ്ങളായി ആണു വിളമ്പുക.
+കൊല്ലത്തെ പഴമക്കാരുടെ ഓണസദ്യക്കു ലഹരിക്ക്‌ കൈതച്ചക്കയിട്ടു വാറ്റിയ ചാരായം നിർബന്ധം. ഇവിടെ ഓണത്തിന്‌ മരച്ചീനിയും വറക്കാറുണ്ട്‌. എള്ളുണ്ടയും അരിയുണ്ടയുമാണ്‌ മറ്റ്‌ വിഭവങ്ങൾ. കുട്ടനാട്ട്‌ പണ്ട്‌ ഉത്രാടം മുതൽ ഏഴു ദിവസം ഓണമുണ്ണുമായിരുന്നു. പുളിശ്ശേരിയും മോരും തോരനും സാമ്പാറുമായിരുന്നു പ്രത്യേക വിഭവങ്ങൾ."
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="സദ്യ ഉണ്ണുന്ന വിധം
+"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" വലത്തു കൈ കൊണ്ടാണ് സദ്യ കഴിക്കുക. ആദ്യവട്ടം പരിപ്പും നെയ്യും ചേർത്ത് ചോറുണ്ണുന്നു, പിന്നീട് പുളിശ്ശേരിയും ചേർത്ത് ഒരു വട്ടം കൂടി ഉണ്ണുന്നു. അതിനു ശേഷം സാമ്പാർ കൂട്ടി ചോറുണ്ണുന്നു. പിന്നീട് പായസങ്ങൾ വിളമ്പുന്നു. അടപ്രഥമൻ പഴവും (ചിലർ പപ്പടവും) ചേർത്ത് ആണ് കഴിക്കുക. ഒടുവിൽ തൈർ ചേർത്ത് ഉണ്ണുന്നു.
+സദ്യ കഴിഞ്ഞ് ഇല മടക്കുന്നതിനും അതിന്റേതായ രീതിയുണ്ട്. ഊണ് ഇഷ്ടപ്പെട്ടാൽ ഇല മുകളിൽ നിന്ന് താഴോട്ടാണു മടക്കുക. (ഇലയുടെ തുറന്ന രണ്ടു ഭാഗവും കഴിക്കുന്ന ആളിനെ അഭിമുഖീകരിക്കും).
+"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="ഓണ സദ്യയിലെ വിഭവങ്ങൾ"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="
+            1.ഇല (നാക്കില )
+
+
+2.ഉപ്പ്
+
+3. വാഴക്കാ ഉപ്പേരി
+
+
+4.ശർക്കര വരെട്ടി
+
+
+5 നാ രങ്ങ അച്ചാർ  / കറി   ,
+
+
+6.വടുകപ്പുളി അച്ചാർ/  കറി  ,
+
+
+7 മാങ്ങാ  അച്ചാർ
+
+
+8.തോരൻ (കാബേജ് / ...)
+
+
+9.പച്ചടി (ബീട്രൂറ്റ് / പൈനാപ്പിൾ / .....)
+
+
+10  കിച്ചടി
+
+
+11 .പുളി ഇഞ്ചി
+
+
+12 എരിശ്ശേരി
+
+
+13 കൂട്ടു കറി
+
+
+14 അവിയൽ
+
+
+15.പപ്പടം (2)
+
+
+16.ചോറ്
+
+
+17. പരിപ്പ് കറി യും  നെയ്യും
+
+
+18. കാളൻ / പുളിശ്ശേരി
+
+
+19. സാമ്പാർ
+
+
+20. രസം
+
+
+21. പ്രഥമൻ (അട പ്രഥമൻ  / പരിപ്പ് പ്രഥമൻ / ...)
+
+
+22.  പാൽ പായസം (...../ ...../..)
+
+
+23. പച്ചമോര്
+
+
+24. പഴം
+
+"
+            android:textStyle="bold|italic" />
+
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/oonjal"
+            android:layout_weight="0.02" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_alignParentTop="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="45dp"
+            android:text="ഓണക്കളികൾ "
+            android:textStyle="bold"
+            android:textColor="#ff0000ff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text= "1.ആട്ടക്കളം കുത്തൽ"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="പഴയകാലത്തെ പ്രധാന ഓണക്കളികളിലൊന്നാണിത്. ഒരു ചെറിയ യുദ്ധത്തിന്റെ പ്രതീതി ജനിപ്പിക്കുന്നതാണിത്. മുറ്റത്ത് കോലുകൊണ്ട് അഞ്ചെട്ടടി വ്യാസത്തിൽ ഒരു വൃത്തം വരക്കുന്നു. കുട്ടികളെല്ലാം അതിനുള്ളിൽ നിൽക്കും. വൃത്തത്തിനു പുറത്തും ഒന്നോ രണ്ടോ ആളുകളും മദ്ധ്യസ്ഥനായി ഒരു നായകനും ഉണ്ടാവും. പുറത്തു നിൽക്കുന്നവർ അകത്ത് നിൽക്കുന്നവരെ പിടിച്ച് വലിച്ച് പുറത്ത് കൊണ്ടുവരികയാണ്‌ കളി. എന്നാൽ വൃത്തത്തിന്റെ വരയിൽ തൊടുകയോ ആളെ തൊടുകയോ ചെയ്താൽ അകത്ത് നിന്നയാല്ക്ക് പുറത്തു നിന്നയാളെ അടിക്കാം. അങ്ങോട്ട് തല്ലാൻ പാടില്ലതാനും. ഒരാളേ പുറത്ത് കടത്തിയാൽ പിന്നെ അയാളും മറ്റുള്ളവരെ പുറത്ത് കടത്താൻ കൂടണം. എല്ലാവരേയും പുറത്താക്കിയാൽ കളി കഴിഞ്ഞു. ഇതിനു വേറേയും നിയമങ്ങൾ ഉണ്ട്"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text=" 2.കൈകൊട്ടിക്കളി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/kaikottikali"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="സ്‌ത്രീകളുടെ ഓണവിനോദങ്ങളിൽ പ്രഥമസ്ഥാനമാണ്‌ കൈകൊട്ടിക്കളിക്കുള്ളത്‌. പൊതുവെ എല്ലാ ജില്ലകളിലും കണ്ടുവരുന്ന ഒന്നാണിത്‌. വീടുകളുടെ അകത്തളങ്ങളുടെ സ്വകാര്യതകളിൽ നടത്തിപ്പോന്നിരുന്ന ഇത് പിൽകാലത്ത് മുറ്റത്ത പൂക്കളത്തിനു വലംവച്ചുകൊണ്ടും നടത്തിവരുന്നു. ഒരാൾ പാടുകയും മറ്റുള്ളവർ ഏറ്റുപാടുകയും ഒപ്പം വട്ടത്തിൽ നിന്ന്‌ ചുവടുവച്ച്‌ കൈകൊട്ടിക്കളിക്കുകയുമാണ്‌ പതിവ്‌. വൃത്തത്തിൽ നിന്നുള്ള ഈ കളി ചന്ദ്രന്റെ വൃദ്ധിക്ഷയങ്ങളെയാണ്‌ സൂചിപ്പിക്കുന്നതെന്നു കരുതുന്നവരുണ്ട്. എന്നാൽ വൃത്താകൃതി ശ്രീബുദ്ധന്റെ ധർമ്മചക്രത്തെയാണ് സൂചിപ്പിക്കുന്നതെന്ന് ചില ചരിത്രകാരന്മാർ പറയുന്നു. മാത്രവുമല്ല എല്ലാവരെയും എല്ലാറ്റിനെയും ഉൾക്കൊള്ളാനുള്ള മാനസികാവസ്ഥയെയും വൃത്താകൃതി സൂചിപ്പിക്കുന്നതായി പറയുന്നു. കൂട്ടായ്മയുടെയും സാർവലൌകികത്തിന്റെയും ഈ നൃത്തത്തിൽ കേരളത്തിലെ പ്രാചീന ഗോത്രനൃത്തങ്ങളുടെ സ്വാധീനം പ്രകടമായുണ്ട്. ചിലയിടങ്ങളിൽ ഇത് വട്ടക്കളി എന്നും അറിയപ്പെടുന്നു."
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="3.പുലിക്കളി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pulikali"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="
+തൃശൂരിലെ പുലിക്കളി
+അരനൂറ്റാണ്ടിലേറെ പഴക്കമുള്ളതാണ്‌ തൃശൂരിന്റെ പുലിക്കളി. കൊല്ലവും തിരുവനന്തപുരവുമാണ്‌ പുലിക്കളിയുടെ മറ്റ്‌ രണ്ട്‌ സ്ഥലങ്ങൾ. തലമുറകളായി തുടർന്നുപോരുന്ന ഇതിന്‌ പൂരത്തിനും ഏറെത്താഴയല്ലാത്ത സ്ഥാനമുണ്ട്‌. നാലാമോണം വൈകിട്ടാണ്‌ പുലിക്കളി. വേഷം കെട്ടൽ തലേന്ന്‌ രാത്രിതന്നെ തുടങ്ങാറുണ്ട്‌. ശരീരമാകെ വടിച്ച്‌ മഞ്ഞയും കറപ്പും ചായം പൂശി വാഹനങ്ങളിൽ കൃത്രിമമായി നിർമ്മിച്ച വനത്തിൽ നിന്ന്‌ ചാടിയിറങ്ങുന്ന നൂറുകണക്കിന്‌ പുലികൾ നടുവിലാർ ഗണപതിക്ക്‌ മുമ്പിൽ നാളീകേരമുടച്ചാണ്‌ കളി തുടങ്ങുന്നത്‌.
+
+പുലിക്കളി ചമയങ്ങൾ
+മെയ്‌വഴക്കവും കായികശേഷിയും പുലികളിക്കാർക്കുണ്ടായിരിക്കേണ്ട നിർബന്ധ സവിശേഷതകളാണ്‌. വന്യതാളവും താളത്തിനും വഴങ്ങാത്ത ചുവടുകളും കോമാളി വേഷങ്ങളും ആക്ഷേപഹാസ്യ ദൃശ്യങ്ങളുമെല്ലാം പുലിക്കളിയുടെ പ്രത്യേകതകളാണ്‌. പുലിക്കു പകരം കടുവാ വേഷങ്ങളും കണ്ടുവരുന്നു. ഇരയായ ആടിനെ വേട്ടയാടുന്ന കടുവയും കടുവയെ വേട്ടയാടുന്ന വേട്ടക്കാരനും (സായ്പ്‌) ഇതിലെ പ്രധാന വേഷങ്ങളാണ്‌. ഉടുക്കും തകിലും അകമ്പടി വാദ്യങ്ങളായി ഉപയോഗിക്കുന്നു.
+തൃശ്ശൂരിലെ പുലിക്കളികൾക്ക് മറ്റൂ സ്ഥലങ്ങളിൽ കാണുന്നതിൽ നിന്ന് വ്യത്യസ്തത ഉണ്ട്. ഇവിടെ പുലികളുടെ മേൽ ഉപയോഗിക്കുന്ന ചായം ഇനാമൽ പെയിന്റ് ആണ്. ഇവ മണ്ണെണ്ണയിൽ നന്നായി കൂട്ടിച്ചേർത്താണ് ഉപയോഗിക്കുന്നത്. കാലത്തിന്റെ മാറ്റം പുലികളിലെ വേഷങ്ങളിലും മാറിയിട്ടുണ്ട്. ചിലർ ശരീരത്തിൽ ചിത്രങ്ങൾ വരക്കാറുണ്ട് . വിവിധനിറത്തിലാണ് പുലികൾ , പച്ച, മഞ്ഞ്, കറുപ്പ്, സിൽ വർ, ചുവപ്പ്, നീല, പിങ്ക് , വയലറ്റ് എന്നുവേണ്ട മിക്ക നിറത്തിലും കാണാം. കുടവയറുള്ള പുലിക്കളിക്കാരെയാണ് ഇവിടെ മിക്കവാറും പ്രധാനിയായി കണക്കാക്കുന്നത്. ഇവർ അരമണി ധരിക്കാറുണ്ട്. ഇത് കുലുക്കിയാണ് മിക്കവാറും നൃത്തം ചെയ്യാറ്. പരിപാടി കഴിഞ്ഞാൽ ചായം കഴുകി കളയുന്നത് മണ്ണെണ്ണയുടെ സഹായത്തോടെ ആണ്."
+            android:textStyle="bold|italic" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="4.ഓണത്തല്ല്‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onathallu"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണക്കാല വിനോദങ്ങളിൽ ഏറ്റവും പഴക്കമേറിയ ഇനമാണ്‌ ഓണത്തല്ല്‌. ഓണപ്പട, കൈയ്യാങ്കളി എന്നും ഇതിന്‌ പേരുണ്ട്‌. എ.ഡി. രണ്ടാമാണ്ടിൽ മാങ്കുടി മരുതനാർ രചിച്ച 'മധുരൈ കാഞ്ചി'യിൽ ഓണത്തല്ലിനെപ്പറ്റി പ്രതിപാദിക്കുന്നുണ്ട്‌. പിൽക്കാലത്ത്‌ നാട്ടിൻപുറങ്ങളിൽ സാധാരണക്കാരും ഇതഭ്യസിച്ചു തുടങ്ങി. തല്ല്‌ പരിശീലിപ്പിക്കുന്ന കളരികളും ഉത്ഭവിച്ചു തുടങ്ങി. മൈസൂർ ആക്രമണകാലം വരെ മലബാറിലും ബ്രിട്ടീഷ്‌ ഗവൺമെന്റിന്റെ ആയുധനിയമം വരുംവരെ തിരുവിതാംകൂറിലും കൊച്ചിയിലും ഓണത്തല്ല്‌ ആചരിച്ചുപോന്നിരുന്നു. ഈയടുത്ത കാലം വരെ മുടങ്ങാതെ ഓണത്തല്ല്‌ നടത്തിയത്‌ തൃശൂരിനടുത്ത്‌ കുന്നംകുളത്തുമാത്രം. കൈ പരത്തിയുള്ള അടിയും തടവും മാത്രമേ ഓണത്തല്ലിൽ പാടുള്ളൂ. മുഷ്ടിചുരുട്ടി ഇടിക്കയോ ചവിട്ടുകയോ അരുത്‌. വ്യവസ്ഥതെറ്റുമ്പോൾ തല്ലുകാരെ പിടിച്ചുമാറ്റുവാൻ റഫറി (ചായികാരൻമാർ അല്ലെങ്കിൽ ചാതിക്കാരൻമാർ) ഉണ്ട്‌. നിരന്നു നിൽക്കുന്ന രണ്ടു ചേരിക്കാർക്കും നടുവിൽ 14 മീറ്റർ വ്യാസത്തിൽ ചാണകം മെഴുകിയ കളത്തിലാണ്‌ തല്ലു നടക്കുക. ഇതിന്‌ ആട്ടക്കളം എന്നു പറയുന്നു. തല്ലു തുടങ്ങും മുൻപ്‌ പരസ്പരം ഉപചാരം ചെയ്യുകയും ഗുരുക്കൻമാരെ വണങ്ങുകയും ചെയ്യുന്നു. ഇതിന്‌ 'ചേരികുമ്പിടുക' എന്ന്‌ പറയുന്നു.
+ഏതെങ്കിലും ഒരു ചേരിയിൽ നിന്ന്‌ പോർവിളി മുഴക്കി ഒരാൾ ആട്ടക്കളത്തിലിറങ്ങുന്നു. തുല്യശക്‌തിയുള്ള ഒരാൾ എതിർചേരിയിൽ നിന്നും ഇറങ്ങും. തറ്റുടുത്ത്‌ ചേല മുറുക്കി 'ഹയ്യത്തടാ' എന്നൊരാർപ്പോടെ നിലം വിട്ടുയർന്ന്‌ കളംതൊട്ട്‌ വന്ദിച്ച്‌ ഒറ്റക്കുതിപ്പിൽ രണ്ടുതല്ലുകാരും മുഖത്തോടു മുഖം നോക്കി നിന്ന്‌ ഇരുകൈകളും കോർക്കും. പിന്നെ കൈകൾ രണ്ടും ആകാവുന്നത്ര ബലത്തിൽ കോർത്ത്‌ മുകളിലേക്കുയർത്തി താഴേക്ക്‌ ശക്‌തിയായി വലിച്ചു വിടുവിക്കും. അതോടെ തല്ലു തുടങ്ങുകയായി. ഒപ്പം ആർപ്പുവിളികളും. തല്ലു തുടങ്ങിയാൽ ഏതെങ്കിലും ഒരു പക്ഷത്തിന്‌ വിജയം കിട്ടാതെ കളം വിട്ടു പോകരുതെന്ന്‌ നിയമമുണ്ട്‌.
+ഓണത്തല്ലുകാർക്കിടയിൽ ഒരു വീരനായകനുണ്ട്‌. കാവശ്ശേരി ഗോപാലൻ നായർ. സ്വന്തം ദേഹത്ത്‌ എതിരാളിയുടെ കൈ ഒരിക്കൽപോലും വീഴിക്കാതെ നാൽപതുകൊല്ലം തല്ലി ജയിച്ചയാളാണ്‌ ഇദ്ദേഹം. കടമ്പൂർ അച്ചുമൂത്താനും പ്രസിദ്ധനാണ്‌. ഇയാൾ ആദ്യമായി പരാജയമറിഞ്ഞത്‌ അമ്പത്തഞ്ചാമത്തെ വയസ്സിൽ കാമശ്ശേരി ഗോപാലൻ നായരോടാണ്‌. ഇരുവരും ആ കളിയോടെ എന്നെന്നേക്കുമായി കളം വിട്ടു. വരവൂർ സെയ്‌താലി, എടപ്പാൾ ഗോപാലൻ, പാത്തുക്കുടി ഉടൂപ്പ്‌ തുടങ്ങിയവരും പേരുകേട്ട ഓണത്തല്ലുകാരാണ്‌.
+"
+
+            android:textStyle="bold|italic" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="5.ഓച്ചിറക്കളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണത്തോടനുംബന്ധിച്ച് വിവിധ സ്ഥലങ്ങളിൽ വള്ളം കളി മത്സരമൊരുക്കപ്പെടുന്നു
+ഓച്ചിറയിൽ പണ്ട് നടന്നു വന്നിരുന്ന പ്രസിദ്ധമായ ഓണാഘോഷ പരിപാടിയാണിത്. രാജാക്കന്മാരുടെ കാലത്തെ സൈന്യങ്ങളെ യുദ്ധം പഠിപ്പിക്കുകയും പ്രകടനം നടത്തിക്കുകയും ചെയ്തിരുന്നതിന്റെ ഒരു പുതിയ പതിപ്പായിരുന്നു ഇത്. ഓച്ചിര അമ്പലതതിന്റെ മുന്നിലാൺ ഇത് അരങ്ങേറുന്നത്. കൊല്ലം തോറും മിഥുനം ഒന്ന് രണ്ട് തീയതികളിലാണ്‌ ഇത് നടന്നിരുന്നത്. 28 ദിവസം(ചാന്ദ്രമാസം) നീണ്ടു നിന്നുരുന്ന പയറ്റാണിത്. യുദ്ധകാല അഭ്യാസപ്രകടനങ്ങൾ പൊതുജനങ്ങൾക്ക് കാണുവാനുള്ള ഒരു വേദിയായിരുന്നു ഇത് "
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="6.കമ്പിത്തായം കളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ചതുരാകൃതിയിലുള്ള ഒരു ഓട് നിലത്ത് ഉരുട്ടി കളിക്കുന്ന കളിയാണ്‌ ഇത്. ചുക്കിണി എന്നാണീ ഓടിന്റെ പേര്‌. ഈ ഓടിന്‌ ആറ് വശങ്ങൾ ഉണ്ടായിരിക്കും അതിൽ ചൂത് കളിക്കുന്ന കവിടി പോലെ വശങ്ങളിൽ ദ്വാരങ്ങൾ അടയാളപ്പെടുത്തിയിരിക്കും. രണ്ടു എതിർ വശങ്ങൾ ചേർത്താൽ ഏഴ് എന്ന അക്കം വരത്തക്കരീതിയിലാണ്‌ ദ്വാരങ്ങൾ ഉണ്ടാക്കുക. രണ്ട് ചുക്കിണികൾ ഉണ്ടായിരിക്കും. ഒരോരുത്തരായി രണ്ട് പ്രാവശ്യം വീതം ചുക്കിണികൾ ഉരുട്ടി വിടുന്നു.രണ്ടിലും ഒരേ തുക വന്നാൽ അതിന്‌ പെരിപ്പം എന്ന് പറയും. പെരിപ്പം കിട്ടീയാൽ ഒരിക്കൽ കൂടി ചുക്കിണി എറിയാനുള്ള അവസരം ലഭിക്കും. നടുവിൽ കളം വരച്ചിരിക്കും. ഈ കളത്തിനു വശങ്ങളിൽ നിന്ന് കരുക്കൾ നീക്കിത്തുടങ്ങാം. ലഭിക്കുന്ന തുകക്കനുസരിച്ചാണ്‌ കരുക്കൾ നീക്കേണ്ടത്. ആദ്യം കളത്തിന്റെ മദ്ധ്യഭാഗത്തെത്തുന്ന കരുവിന്റെ ഉടമ വിജയിക്കുന്നു. "
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="7.ഭാരക്കളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="കമ്പിത്തയം കളി പോലെ തന്നെയുള്ള ഒരു വിനോദമാണിത്. എന്നാൽ നിയമങ്ങൾക്ക് അല്പം വ്യത്യാസമുണ്ടെന്നു മാത്രം. സ്ത്രീകളായിരുന്നു ഇത് അധികവും കളിച്ചിരുന്നത്. "
+
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="8.നായയും പുലിയും വെയ്ക്കൽ‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" പതിനഞ്ചു നായയും പുലിയും വെയ്ക്കുക എന്നൊരു വിനോദം പണ്ട് നടന്നിരുന്നു. മൂന്ന് പുലിയും 15 നായ്ക്കണുമായിരുന്നു അതിലെ കരുക്കൾ. രണ്ട് പേർ കൂടി കളിക്കുന്ന കളിയാണ്‌. നായ്ക്കളെ ഉപയോഗിച്ച് പുലികളെ കുടുക്കുകയും പുലികളെ ഉപയോഗിച്ച് നായ്ക്കളെ വെട്ടുകയും ചെയ്യുന്ന ചതുരംഗം പോലെയുള്ള കളം ഇതിനുണ്ട്."
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="9.ആറന്മുള വള്ളംകളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vallamkali2"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" ചിങ്ങമാസത്തിലെ ഉത്രട്ടാതി നാളിലാണ്‌ ആറൻമുള വള്ളംകളി നടക്കുന്നത്‌. ഇതിന്റെ ഐതിഹ്യം ആറന്മുള ശ്രീകൃഷ്ണക്ഷേത്രവുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു. പണ്ട്‌ ആറന്മുള ക്ഷേത്രത്തിനടുത്ത്‌ ഒരു കൃഷ്ണഭക്‌തനുണ്ടായിരുന്നു. ദിവസേന ഒരു തീർത്ഥാടകന്‌ തന്റെ വീട്ടിൽ ഭക്ഷണം നൽകുക അദ്ദേഹത്തിന്റെ പതിവായിരുന്നു. ഒരു ദിവസം തീർത്ഥാടകരാരും വന്നു കണ്ടില്ല. അവസാനം ഒരാൾ വരികയും ഭക്ഷണത്തിനു ശേഷം വീണ്ടും വരണമെന്ന്‌ പറഞ്ഞപ്പോൾ അതു സാദ്ധ്യമല്ലെന്ന്‌ അയാൾ പറയുകയും ചെയ്തു. പോകാൻനേരം ആറന്മുള ക്ഷേത്രത്തിൽ തന്നെ കാണാമെന്ന്‌ പറഞ്ഞ്‌ അയാൾ മറഞ്ഞു. അപ്പോഴാണ്‌ തീർത്ഥാടകൻ മറ്റാരുമല്ല സാക്ഷാൽ ശ്രീകൃഷ്ണനാണെന്ന്‌ ഭക്‌തന്‌ മനസ്സിലായത്‌. അതിന്‌ ശേഷം എല്ലാ തിരുവോണനാളിലും അയാൾ അരിയും മറ്റ്‌ സാധനങ്ങളും സദ്യക്കായി വള്ളത്തിൽ കൊണ്ടുവന്നിരുന്നു. ഒരിക്കൽ ഈ വള്ളത്തിനു നേർക്ക്‌ ഒരാക്രമണമുണ്ടാവുകയും പിന്നീട്‌ ഇത്തരത്തിലുള്ള സംഭവങ്ങൾ തടയാൻ ചുണ്ടൻവള്ളങ്ങളെ അകമ്പടിയായി കൊണ്ടുവരുകയും ചെയ്‌തു. ഇതാണ്‌ പിന്നീട്‌ വള്ളംകളിയായി മാറിയത്‌. രണ്ടു ദിവസം നീണ്ടുനിൽക്കുന്ന ആഘോഷങ്ങൾക്ക്‌ തുടക്കമിട്ടത്‌ ചുണ്ടൻവള്ളങ്ങളുടെ മത്സരമാണ്‌. മുപ്പതടിയോളം നീളമുള്ള ചുണ്ടൻവള്ളങ്ങളിൽ നാല്‌ അമരക്കാരും നൂറോളം തുഴക്കാരും ഇരുപത്തഞ്ചോളം പാട്ടുകാരും ഉണ്ടാകും.
+ആറന്മുളയിൽ മാത്രമല്ല, പായിപ്പാട്, കരുവാറ്റ എന്നിവിടങ്ങളിലും വള്ളംകളി നടക്കാറുണ്ട്."
+
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="10.തലപന്തു കളി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണക്കാലത്ത് കുട്ടികളും യുവാക്കളും പങ്കെടുക്കുന്ന മറ്റൊരു വിനോദമാണ് തലപന്തു കളി. മൈതാനത്തും വീട്ട്മുറ്റത്തും കളിക്കാവുന്ന ഈ വിനോദത്തിൽ ക്രിക്കറ്റ്കളിപോലെ ആകയുള്ളവർ രണ്ട് സംഘങ്ങളായി പിരിഞ്ഞ് ഒരു കൂട്ടർ കളിക്കുകയും മറ്റേ കൂട്ടർ കാക്കുകയും ചെയ്യുന്നു. ഏകദേശം 150 സെ.മീ നീളമുള്ള ഒരു കമ്പ് നാട്ടി ആ കമ്പിൽ നിന്ന് കുറച്ചകലത്തിൽ നിന്നുകൊണ്ട് ഓലകൊണ്ടുണ്ടാക്കിയ പന്ത് ഒരു കൈകൊണ്ട് മുകളിലേക്കെറിഞ്ഞ് മറ്റേ കൈകൊണ്ട് പന്ത് പുറകോട്ട് തട്ടിതെറിപ്പിച്ച് കളി തുടരുന്നു. പൊങ്ങി വരുന്ന പന്ത് നിലം തൊടുന്നതിനു മുമ്പായി കാക്കുന്നവർ കൈപ്പിടിയിൽ ഒതുക്കിയാലും പന്ത് വീണിടത്ത് നിന്നെറിഞ്ഞ് നാട്ടിയിരിക്കുന്ന കോൽ തട്ടിത്തെറിപ്പിക്കാനും കഴിഞ്ഞാൽ പന്ത് തട്ടിയ ആൾ കളിക്ക് പുറത്താകും. തലപന്ത്, ഒറ്റ, പെട്ട, പിടിച്ചാൻ, താളം, കാലിങ്കീഴ്, ഇണ്ടൻ, ചക്കരകൈ എന്നിങ്ങനെ വ്യത്യസ്തങ്ങളായ എട്ടിനങ്ങൾ ഈ വിനോദത്തിലുണ്ട്.
+ "
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="11.കിളിത്തട്ടുകളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഗ്രാമീണരുടെ കായികവിനോദമായ ഈ കളി ഓണക്കാലത്തും മറ്റ് വിശേഷാവസരങ്ങളിലും കൂടുതലായി നടത്തിവരുന്നു. "
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="12.സുന്ദരിക്ക് പൊട്ട്കുത്ത്
+‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണക്കാലത്ത് നടത്തുന്ന മറ്റൊരു കളിയാണ്‌ സുന്ദരിക്ക് പൊട്ട്കുത്ത്. കണ്ണ് കെട്ടി സുന്ദരിയുടെ ചിത്രത്തില്(നെറ്റി)പൊട്ട് തൊടുന്നു. "
+
+            android:textStyle="bold|italic" />
+
+
+    </LinearLayout>
+</ScrollView>
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/kathakali2"
+            android:layout_weight="0.02" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_alignParentTop="true"
+              android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="45dp"
+            android:text="ഓണം അനുഷ്ഠാന കലകൾ
+"
+            android:textStyle="bold"
+            android:textColor="#ff0000ff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="1.ഓണത്തെയ്യം"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/theyyam"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="തെയ്യങ്ങളുടെ നാടായ ഉത്തരകേരളത്തിൽ ഓണത്തിന്‌ മാത്രമുള്ള തെയ്യമാണ്‌ ഓണത്തെയ്യം. മഹാബലി സങ്കൽപ്പത്തിലുള്ള ഈ നാട്ടുദൈവത്തിന്‌ 'ഓണത്താർ' എന്നാണ്‌ പേര്‌. വണ്ണാൻമാരാണ്‌ ഓണത്തെയ്യം കെട്ടിയാടുന്നത്‌. ചിങ്ങത്തിലെ ഉത്രാടം, തിരുവോണം എന്നീ നാളുകളിൽ ചെറിയ ആൺകുട്ടികളാണ്‌ ഓണത്താർ തെയ്യം കെട്ടുക. മുഖത്ത്‌ തേപ്പും ചെറിയ മുടിയും വലതുകൈയ്യിൽ മണിയും ഇടതുകൈയ്യിൽ ഓണവില്ലുമായി തെയ്യം വീടുതോറും കൊട്ടിപ്പാടി ആടിക്കുന്നു. ഒപ്പം വണ്ണാൻമാർ ചെണ്ടകൊട്ടുകയും പാടുകയും ചെയ്യുന്നു. അസുര ചക്രവർത്തിയായ മഹാബലിയുടെ ചരിത്രമാണ്‌ ഓണത്താർ പാട്ടിന്റെ ഉള്ളടക്കം. കണ്ണൂർ ജില്ലകളിലാണ്‌ ഈ തെയ്യം ഏറ്റവും പ്രചാരത്തിലുള്ളത്‌.
+"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="2.വേലൻ തുള്ളൽ"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="‘ഓണം തുള്ളൽ‘ എന്നു കൂടി പേരുള്ള ഈ കല വേല സമുദായത്തിൽപ്പെട്ടവരാണ്‌‍ അവതരിപ്പിക്കുന്നത്. ഓണക്കാലത്തു മാത്രമാണ്‌‍ ഇത് നടത്താറുള്ളത്. ഉത്രാടനാളിലാണ്‌‍ ആദ്യം കളി തുടങ്ങുന്നത്, കളിസംഘം വീടുകൾതോറും കയറിയിറങ്ങി കലാപ്രകടനം നടത്തുന്നു. ദേശത്തെ പ്രധാനപ്പെട്ട ഏതെങ്കിലും ക്ഷേത്രത്തിനു മുമ്പിൽ വച്ചാണ്‌‍ ആദ്യപ്രകടനം. തുടർന്ന് നാട്ടിലെ പ്രമാണിമാരുടെ ഭവനങ്ങളിലും. വേലൻ, വേലത്തി, പത്ത് വയസ്സിൽ താഴെയുള്ള ഒരു പെൺകുട്ടി, കുടുംബത്തിൽ പെട്ട ഏതെങ്കിലും ഒരു പുരുഷൻ ഇവരാണ്‌‍ സാധാരണയായി സംഘത്തിൽ ഉണ്ടാവുക. ഓട്ട് കിണ്ണത്തിൽ പേനാക്കത്തിപോലുള്ള സാധനം കൊണ്ട് കൂടെയുള്ള പുരുഷൻ കൊട്ടുമ്പോൾ വേലത്തി കൈത്താളമിടുന്നു.പെൺകുട്ടി കുരുത്തോല കൊണ്ട് നിർമിച്ച ചാമരം വീശിക്കൊണ്ട് നൃത്തം ചെയ്യുന്നു.
+ഗണപതി, സരസ്വതി എന്നിവരെ വന്ദിച്ച് കൊണ്ടുള്ള പാട്ട് കഴിഞ്ഞാൽ മാവേലിയുടെ വരവിനെ പ്രകീർത്തിച്ചു കൊണ്ട് പാട്ടുകൾ പാടുന്നു. തുടർന്ന് സന്താനഗോപാലം പാനയിലെ വൈകുണ്ഠദർശനം മുഴുവനും പാടൂന്നു. പിന്നീട് അമ്മാനമാട്ടം, പാറാവളയം, കുടനിവർത്തൽ, അറവുകാരൻ എന്നീ കലാപ്രകടനങ്ങൾ വേലത്തി നടത്തുന്നു. നാടിനും നാട്ടാർക്കും തമ്പുരാനും ക്ഷേമൈശ്വര്യങ്ങൾ നേർന്ന് വേലൻ തുള്ളൽ അവസാനിക്കുമ്പോൾ നാട്ട് പ്രമാണി വേലനും കുടുംബത്തിനും സമൃദ്ധമായി കഴിയാൻ വേണ്ട വക സമ്മാനിക്കുന്നു. ഈ കല കോട്ടയം ജില്ലയിൽ അപൂർവം ചില സ്ഥലങ്ങളിൽ മാത്രമാണ് ഇപ്പോൾ പ്രചാരത്തിലുള്ളത്"
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="3.ഓണപ്പൊട്ടൻ"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onappottan"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണത്തെയ്യത്തിൽത്തന്നെ സംസാരിക്കാത്ത തെയ്യമാണ്‌ ഓണേശ്വരൻ. വായ് തുറക്കാതെ തന്നെ തെയ്യം കാണിക്കുന്നതിനാൽ ഓണപ്പൊട്ടൻ എന്ന പേരിലും അറിയപ്പെടുന്നു. കോഴിക്കോട് , കണ്ണൂർ‍ ജില്ലകളിലെ ഉൾപ്രദേശങ്ങളിലാണ്‌ ഇത്‌ കൂടുതലായും കണ്ടുവരുന്നത്‌. മലയസമുദായക്കാർക്ക്‌ രാജാക്കൻമാർ നൽകിയതാണ്‌ വേഷം കെട്ടാനുള്ള അവകാശം. ഓണത്തെയ്യത്തെപ്പോലെ ചിങ്ങത്തിലെ ഉത്രാടത്തിനും തിരുവോണത്തിനുമാണ്‌ ഓണേശ്വരൻ വീടുതോറും കയറിയിറങ്ങുന്നത്‌. മുഖത്ത്‌ ചായവും കുരുത്തോലക്കുടയും കൈതനാരുകൊണ്ട്‌ തലമുടിയും കിരീടം, കൈവള, പ്രത്യേകരീതിയിലുള്ള ഉടുപ്പ്‌ എന്നീ ആടയാഭരണങ്ങളുമാണ്‌ ഓണപ്പാട്ടിന്റെ വേഷവിധാനം. ഓണപ്പൊട്ടൻ ഒരിക്കലും കാൽ നിലത്തുറപ്പിക്കില്ല. താളം ചവിട്ടുകയും ഓടുകയും ചെയ്‌തുകൊണ്ടേയിരിക്കും. ദക്ഷിണയായി അരിയും പണവുമാണ്‌ ലഭിക്കാറ്‌."
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="4.ഓണക്കുമ്മാട്ടി (കുമ്മാട്ടിക്കളി)‌"
+
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/kummatti"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="തൃശൂർ,പാലക്കാട്, വയനാട് തുടങ്ങിയ ജില്ലകളിൽ പ്രചാരത്തിലുള്ള ഒരു നാടൻ കലാരൂപമാണ് കുമ്മാട്ടി. തൃശൂർ പട്ടണത്തിൽകിഴക്കുമ്പാട്ടുകര ദേശക്കാരർ ഓണത്തോടനുബന്ധിച്ച് അഘോഷിക്കുന്നു. പാലക്കാട്, വയനാട് ജില്ലകളുടെ ചില ഭാഗങ്ങളിൽ കുമ്മാട്ടി ദേവപ്രീതിക്കായും വിളവെടുപ്പിനോട് അനുബന്ധിച്ചും ആഘോഷിക്കുന്നു. ഈ ഭാഗങ്ങളിൽ ഓണത്തപ്പനെ വരവേൽക്കാനായും കുമ്മാട്ടി ആഘോഷിക്കുന്നുണ്ട്. "
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="5.ഓണവില്ല്"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onavillu"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ഓണക്കാല വിനോദങ്ങളിൽ വളരെ പ്രധാനമായ ഒന്നായിരുന്നു ഓണവില്ല് എന്ന സംഗീത ഉപകരണം. മധ്യകേരളത്തിൽ ഏറെ പ്രചാരമുണ്ടായിരുന്ന ഇത് ഇന്ന് തീരെ അപ്രത്യക്ഷമായിരിക്കുന്നു. ഓണക്കാലത്ത് മാത്രമേ വില്ലു കൊട്ടുക ഉണ്ടാകുകയുള്ളൂ. പനയുടെ പാത്തി, കവുങ്ങ്, മുള എന്നിവ കൊണ്ടാണ്‌ ഓണവില്ല് ഉണ്ടാക്കുക. ഞാണുണ്ടാക്കുവാൻ മുള മാത്രമേ ഉപയോഗിക്കൂ. നല്ല വശമുള്ളവർ കൊട്ടിയാൽ ശ്രവണമധുരമായ ശബ്ദം പുറപ്പെടുവിക്കുകയും ചെയ്യുന്ന വയലിൻ പോലെയുള്ള ഉപകരണമാണ്‌. പണ്ട് കാലങ്ങളിൽ ഓണക്കാലമായൽ ഓണവില്ലിന്റെ പാട്ട് കേൾക്കാത്ത വീടുകൾ ഉണ്ടാവാറില്ല എന്ന് പറയാറുണ്ട്. ഈ വില്ലിന്മേൽ തായമ്പക, മേളം എന്നിവ കൊട്ടാറുണ്ട്. ഒരു കൈകൊണ്ട് മാത്രമേ ഇത് കൊട്ടാൻ പറ്റൂ എന്നതിനാൽ അഭ്യസിക്കാൻ ഏറെ വിഷമമുള്ള വാദ്യോപകരണമാണ്‌ ഇത്."
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:text="6.ഓണംകളി‌"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onamkali"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="തൃശൂർ ജില്ലയിൽ പൊതുവേ ഓണത്തോടനുബന്ധിച്ച് നടന്നു വരുന്ന ഒരു ഗാന-നൃത്തകലയാണിത്. രാമായണത്തേയും മറ്റു ഹിന്ദുമതപുരാണങ്ങളേയും ആസ്പദമാക്കി നാടൻപാട്ടിന്റെ ശീലിൽ തയാറാക്കിയ പാട്ടിനനുസരിച്ച് ചുവടുകൾ വച്ചാണ്‌ ഈ നൃത്തം നടത്തുന്നത്.
+പത്തോ പതിനഞ്ചോ പുരുഷന്മാർ ചേർന്നാണ്‌ ഓണം കളി അവതരിപ്പിക്കുന്നത്. കളത്തിനു നടുവിൽ ഒരു തൂണ്‌ നാട്ടി അതിൽ നാട്ടിയിരിക്കുന്ന ഉച്ചഭാഷിണിയിലേക്ക് പാട്ടുകാരൻ പാടുന്നു. മറ്റു സംഘാങ്ങൾ ഈ തൂണിനു ചുറ്റും വൃത്താകൃതിയിൽ നിരന്ന് ചുവടുവക്കുന്നതോടൊപ്പം പാട്ടുകാരന്റെ പാട്ടിന്റെ പല്ലവി ഏറ്റുപാടുകയും ചെയ്യുന്നു. ഒരു പാട്ട് ഏകദേശം 10 മുതൽ 15 മിനിറ്റ് വരെ നീണ്ടു നിൽക്കും. താരതമ്യേന അയഞ്ഞ താളത്തിൽ തുടങ്ങുന്ന പാട്ട് അന്ത്യത്തോടടുക്കുമ്പോൾ മുറുകി ദ്രുതതാളത്തിൽ അവസാനിക്കുന്നു.
+ഒന്നിലധികം സംഘങ്ങളെ‍ പരസ്പരം മൽസരിപ്പിച്ച് നടത്തുന്ന ഓണംകളി മൽസരങ്ങളും നടന്നു വരാറുണ്ട്.
+ "
+
+            android:textStyle="bold|italic" />
+
+
+
+    </LinearLayout>
+</ScrollView>
+

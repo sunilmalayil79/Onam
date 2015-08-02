@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onasadhy"
+            android:layout_weight="0.02" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_alignParentTop="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="40sp"
+            android:text="ഓണ വിഭവങ്ങൾ പാചകം ചെയ്യുന്ന   "
+            android:textStyle="bold"
+            android:textColor="#ff0000ff" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="1.അടപ്രഥമൻ "
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/adapradhaman"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ആവശ്യമുള്ള സാധനങ്ങള്‍:
+അട-ഒരു പായ്ക്കറ്റ്
+ശര്ക്കുര- ഒരു കിലോ
+തേങ്ങ - 4എണ്ണം
+തേങ്ങ- ഒരു മുറി- ചെറിയ കഷണങ്ങളായി മുറിച്ചത്
+അണ്ടിപരിപ്പ്-100ഗ്രാം
+കിസ്മിസ്-100ഗ്രാം
+എലക്കായ-ചതച്ചത്-100ഗ്രാം
+നെയ്യ്- ഒരു കപ്പ്
+
+
+പാകം ചെയ്യുന്ന വിധം:
+അട മൂന്നോ നാലോ ഗ്ളാസ് വെള്ളമൊഴിച്ച് നന്നായി വേവിയ്ക്കുക.തേങ്ങ നന്നായി ചിരകി മിക്സിയില്‍ അടിച്ച് ഒന്നാം പാല്‍ എടുക്കുക. വീണ്ടും നന്നായി പിഴിഞ്ഞ് രണ്ടാം പാലും എടുക്കുക. രണ്ട് സ്പണ്‍ നെയ്യില്‍ തേങ്ങ ചെറിയ കഷണങ്ങളാക്കിയത്, അണ്ടിപരിപ്പ്, കിസ്മിസ്, എന്നിവ വറുക്കുക. ഒരു പാത്രത്തില്‍ നെയ്യ് ചൂടാക്കി അതിലേയ്ക്കു ശര്ക്കസര പൊടിച്ച് നന്നായി ഉരുക്കുക. അതിനുശേഷം വേവിച്ച അട ചേര്ത്ത് യോജിപ്പിക്കുക. തിളച്ച ശേഷം അതിലേയ്ക്കു രണ്ടാം പാലും വറുത്ത അണ്ടിപരിപ്പ് ,കിസ്മിസ് തേങ്ങ , ചതച്ച ഏലക്ക എന്നിവ ചേര്ത്തു വീണ്ടും തിളപ്പിയ്ക്കുക. അല്പം കുറുകിയ ശേഷം ഒന്നാം പാല്‍ രണ്ടാം ചേര്ത്ത്യ അടുപ്പില്‍ നിന്നും വാങ്ങുക.
+കുറിപ്പ്: ചതച്ച ഏലക്കായ്ക്കു പകരം ഏല്ക്കാ പൊടിയിട്ടാലും മതി. പായസം അധികം കുറുകിപോയാല്അല്പം തേങ്ങാ
+
+പാലോ, പശുവന്‍ പാലോ ചേര്ത്താല്‍ മതി. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="2.അവിയല്‍"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/aviyal"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="
+ആവശ്യമുള്ള സാധനങ്ങള്‍
+അവിയലിന് സാധാരണയായി ഉപയോഗിക്കുന്നത് കായ, ചേന, കുമ്പളങ്ങ/വെള്ളരി, പാവയ്ക്ക, കാരറ്റ്, കൊത്തമര, ബീന്‍സ്/പയര്‍, മുരിങ്ങക്കായ,വഴുതനങ്ങ മുതലായവയാണ്. എല്ലാംകൂടി എകദേശം ഒരു കിലോ പച്ചമുളക് - 8-10 എണ്ണം.
+തേങ്ങ ചിരകിയത് - ആവശ്യത്തിന് വേണം. പിശുക്ക് പാടില്ല.
+പുളി - ആവശ്യത്തിന്. പുളിക്ക് പകരം തൈരോ, മാങ്ങയോ ഉപയോഗിക്കാം.
+ജീരകം, മുളകുപൊടി, മഞ്ഞള്‍പ്പൊടി, ഉപ്പ്, കറിവേപ്പില, വെളിച്ചെണ്ണ - ഒക്കെ ആവശ്യം പോലെ
+
+ഉണ്ടാക്കുന്ന വിധം
+
+പച്ചക്കറികള്‍ എല്ലാം കനം കുറച്ച് നീളത്തില്‍ അരിഞ്ഞെടുക്കുക. (കായയുടെ തൊണ്ടു കളയേണ്ട ആവശ്യമില്ല). പച്ചമുളകും രണ്ടായി കീറി ഇതിലിടുക. പാകത്തിന് ഉപ്പും മുളകുപൊടിയും മഞ്ഞള്‍പ്പൊടിയും ചേര്‍ത്ത് ഇളക്കിയശേഷം ചുവടു കട്ടിയുള്ള പാത്രത്തിലിട്ട് വെള്ളമൊഴിച്ച് വേവിക്കാന്‍ വയ്ക്കുക (കുക്കറില്‍ വേവിയ്ക്കരുത്). ഒന്നു ചൂടായാല്‍ പുളി പിഴിഞ്ഞതും ചേര്‍ക്കാം. ഇടയ്ക്കിടെ ഇളക്കികൊടുക്കുക. തേങ്ങ ജീരകം ചേര്‍ത്ത് ഒന്നു ചതച്ചെടുക്കുക. അരഞ്ഞുപോകരുത്. മിക്സിയിലാണെങ്കില്‍ വെള്ളം ചേര്‍ക്കാതെ ഒന്നു തിരിച്ചെടുത്താല്‍ മതിയാവും.
+
+കഷ്ണങ്ങള്‍ വെന്ത് വെള്ളം നിശ്ശേഷം വറ്റിക്കഴിഞ്ഞാല്‍ വാങ്ങിവയ്ക്കാം. അതിനുശേഷം ചതച്ചുവച്ചിരിക്കുന്ന തേങ്ങ ചേര്‍ത്ത് നന്നായി ഇളക്കണം. അവസാനം കറിവേപ്പില ഇട്ട്, വെളിച്ചെണ്ണ ഒഴിച്ച് ഒന്നുകൂടി ഇളക്കി യോജിപ്പിക്കുക. കറിവേപ്പിലയുടേയും വെളിച്ചെണ്ണയുടേയും വാസനയെ രക്ഷപ്പെടാന്‍ അനുവദിക്കാതെ ഉടനെ തന്നെ അടച്ചു വയ്ക്കുക. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="3.ബീറ്റ്റൂട്ട് പച്ചടി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/beetpacha"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ആവശ്യമുള്ള സാധനങ്ങള്‍:
+
+ബീറ്റ്റൂട്ട് - ഇടത്തരം ഒന്ന്
+തൈര് - ഒന്നര കപ്പ്‌
+പച്ചമുളക് - 3
+ജീരകം - ഒരു നുള്ള്
+കുഞ്ഞുള്ളി - 5 അല്ലി
+വെളുത്തുള്ളി - 2 അല്ലി
+ഇഞ്ചി - ഒരു ചെറിയ കഷണം
+തേങ്ങാ തിരുമ്മിയത്‌ - 1/4 കപ്പ്‌
+വറ്റല്‍ മുളക് - 2
+കടുക് - 1/4 ടീസ്പൂണ്‍
+ഉപ്പ് - പാകത്തിന്
+വെളിച്ചെണ്ണ - ആവശ്യത്തിന്
+കറി വേപ്പില - ഒരു കതിര്‍
+
+തയ്യാറാക്കുന്ന വിധം :
+
+ആദ്യം ബീറ്റ് റൂട്ട് തൊലി ചെത്തി നന്നായി കഴുകി ഗ്രേറ്റ് ചെയ്തെടുക്കുക. കുറച്ചു വെള്ളം ഒഴിച്ച് ബീറ്റ് റൂട്ട് വേവിയ്കുക.
+
+പച്ചമുളക് ,ഇഞ്ചി,കുഞ്ഞുള്ളി ,വെളുത്തുള്ളി എന്നിവ തീരെ ചെറുതായി അരിയുക.
+
+തേങ്ങയും ജീരകവും ഒരു കുഞ്ഞുള്ളിയും കൂടി മിക്സറില്‍ നല്ല നേര്‍മയായി അരച്ചെടുക്കുക "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="4.കാബേജ്തോരന്‍"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cabthoran"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ആവശ്യമുള്ള സാധനങ്ങള്‍ കാബേജ് (അരിഞ്ഞത്) -500ഗ്രാം
+തേങ്ങ -ഒരു പകുതി (ചിരകിയത്)
+പച്ചമുളക് -നാലെണ്ണം(നെടുകെ പിളര്ന്നഞത്)
+ഉപ്പ് -പാകത്തിന്
+കറിവേപ്പില -രണ്ട് തണ്ട്
+മഞ്ഞള്‍ ‍-പാകത്തിന്
+കടുക് -25ഗ്രാം
+വറ്റല്‍ മുളക് -രണ്ടെണ്ണം
+ഉഴുന്നുപരിപ്പ് -അര സ്പൂണ്‍
+
+പാകം ചെയ്യുന്ന വിധം:
+
+കാബേജ് അരിഞ്ഞതിലേയ്ക്കു തേങ്ങ ചിരകിയതും പച്ചമുളക് കീറിയതും മഞ്ഞളും പാകത്തിന് ഉപ്പും ചേര്ത്ത് നന്നായി തിരുമ്മുക. ചീനച്ചട്ടിയില്‍ വെളിച്ചെണ്ണ ചൂടാക്കി കടുക്, വറ്റല്‍ മുളക്, ഉഴുന്നു പരിപ്പ്, കറിവേപ്പില എന്നിവ ചേര്ത്ത്് താളിക്കുക. ഇതിലേയ്ക്കു തിരുമ്മിയ കാബേജ് ചേര്ത്ത് അല്പം വെള്ളം തൂകി അടച്ചു വേവിയ്ക്കുക. മൂന്നു മിനുറ്റിനു ശേഷം മൂടി തുറന്ന് നന്നായി ഇളക്കുക. വെള്ളം പൂര്ണ്ണുമായും വറ്റിയ ശേഷം അടുപ്പില്‍ നിന്നുമിറക്കുക "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="5.ഇഞ്ചിക്കറി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/injikkary"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ആവശ്യമുള്ള സാധനങ്ങള്‍:
+
+1. ഇഞ്ചി പൊടിയായി അരിഞ്ഞത് - അരകപ്പ്
+2. വറ്റല്‍ മുളക് - 24 എണ്ണം
+മല്ലി - 2 വലിയ സ്പൂണ്‍
+ഉലുവ - 1/4 ചെറിയ സ്പൂണ്‍
+കടുക് - 1/4 ചെറിയ സ്പൂണ്‍
+3. നല്ലെണ്ണ - 1 വലിയ സ്പൂണ്‍
+4. വെളിച്ചെണ്ണ - 2 വലിയ സ്പൂണ്‍
+5. വാളന്പുെളി - 2 ചെറിയ സ്പൂണ്‍
+6. ശര്ക്കുര - പാകത്തിന്
+7. കടുക് - കാല്‍ ചെറിയ സ്പൂണ്‍
+ഉലുവ - അല്പം
+വറ്റല്‍ മുളക് - നാല് എണ്ണം (മുറിച്ചത്)
+കറിവേപ്പില - ആവശ്യത്തിന്
+
+തയ്യാറാക്കുന്ന വിധം:
+
+ഇഞ്ചി കൊത്തിയരിഞ്ഞത് ചീനച്ചട്ടി അടുപ്പത്ത് വച്ച് ചൂടാകുമ്പോള്‍ ആവശ്യത്തിന് വെളിച്ചെണ്ണ ഒഴിച്ച് ചുവക്കെ വറുത്തു കോരുക.
+ഒരു വലിയ സ്പൂണ്‍ നല്ലെണ്ണ ഒഴിച്ച് ചൂടാകുമ്പോള്‍, രണ്ടാമത്തെ സാധനങ്ങള്‍ ക്രമത്തിന് ഇട്ടു മൂപ്പിച്ചുവാങ്ങി നന്നായി അരച്ചെടുക്കുക. അതിനുശേഷം ഒരു പാത്രത്തില്‍ വറുത്തെടുത്ത ഇഞ്ചിയും, ആവശ്യത്തിന് വാളന്പുെളി കലക്കിയ വെള്ളവും മേല്പെറഞ്ഞ അരച്ചെടുത്ത സാധനങ്ങളും, ഉപ്പുനീരും ചേര്ത്ത്ല ഇളക്കി തിളപ്പിക്കുക.
+രണ്ടു വലിയ സ്പൂണ്‍ വെളിച്ചെണ്ണ ചൂടാകുമ്പോള്‍ ഏഴാമത് പറഞ്ഞിരിക്കുന്ന സാധനങ്ങള്‍ ഓരോന്നും മൂപ്പിച്ചെടുത്ത് കറിയില്‍ ചേര്ക്കു ക. 'ഇഞ്ചിക്കറി' ഒരു വിധം കൊഴുക്കുന്ന സമയം പാകത്തിന് മധുരം ആകത്തക്കവിധം ശര്ക്കിര കൂടി ചീകി ചേര്ക്കു ക. നന്നായി ഇളക്കി തണുത്തശേഷം പാത്രത്തില്‍ നിന്നും കയില്കൊംണ്ട് കോരി ഭരണിയില്‍ ഒഴിച്ചുവെച്ച് ആവശ്യത്തിന് എടുത്ത് ഉപയോഗിക്കുക.  "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="6.കാളന്‍"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/kala"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="‍ആവശ്യമുള്ള സാധനങ്ങള്‍
+തൈര് -നാല് കപ്പ്
+ചേന -250ഗ്രാം-ചെറിയ കഷണങ്ങളാക്കിയത്
+ഏത്തപ്പഴം -ഒരെണ്ണം- ചെറിയ കഷണങ്ങളാക്കിയത്
+പച്ചമുളക് -അഞ്ചെണ്ണം -നെടുകെ പിളര്ന്ന്ത്
+തേങ്ങ -ഒരെണ്ണം
+ജീരകം -ഒരു നുള്ള്
+മഞ്ഞള്പ്പൊുടി -അര ടീസ്പൂണ്‍
+കറിവേപ്പില -രണ്ടില
+വെളിച്ചെണ്ണ -ആവശ്യത്തിന്
+ഉപ്പ് -പാകത്തിന്
+കടുക് -ഒരു സ്പൂണ്‍
+വറ്റല്‍ മുളക് -രണ്ടെണ്ണം കഷണങ്ങളാക്കിയത്
+ഉലുവ -അര സ്പൂണ്‍
+പാകം ചെയ്യുന്ന വിധം
+ചേന, ഏത്തപ്പഴം, പച്ചമുളക്, എന്നിവ മഞ്ഞള്പൊളടിയും പാകത്തിന് ഉപ്പും ചേര്ത്ത് അല്പം വെള്ളത്തില്‍ വേവിക്കുക. അധികം വെള്ളം ചേര്ക്കാ തെ തേങ്ങ ജീരകവും പച്ചമുളകും ചേര്ത്ത്ന നന്നായി അരക്കുക. കഷണങ്ങള്‍ വെന്തു വരുമ്പോള്‍ തേങ്ങ അരച്ചത് ചേര്ത്ത്ക ഇളക്കുക. അരപ്പ് നന്നായി തിളക്കുമ്പോള്‍ അതിലേക്കു തൈര് ഒഴിക്കുക. ഒന്നു കുറുകുന്നതുവരെ നന്നായി ഇളക്കിയ ശേഷം അടുപ്പില്‍ നിന്നും ഇറക്കി വയ്ക്കുക. ചീനച്ചട്ടിയില്‍ വെളിച്ചെണ്ണ ഒഴിച്ച് ചൂടാക്കുമ്പോള്‍ കടുക്, ഒരു നുള്ള് ജീരകം, ഉലുവ, രണ്ട് വറ്റല്‍ മുളക് , കറിവേപ്പില എന്നിവ ഇട്ട് താളിക്കുക. ഇത് കറിയിലേയ്ക്കു ചേര്ക്കു ക. കുറിപ്പ് : ചേനയ്ക്കു പകരം പൈനാപ്പിളും ഉപയോഗിക്കാം "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="7.കൂട്ടു കറി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/koottu"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" ആവശ്യമുള്ള സാധനങ്ങള്‍
+ചേന -200ഗ്രാം
+പച്ചക്കായ -100ഗ്രാം
+കടല -50ഗ്രാം
+മുളകുപൊടി -ഒന്നര സ്പൂണ്‍
+മഞ്ഞള്പൊിടി -ഒരു സ്പൂണ്‍
+ഉഴുന്നു പരിപ്പ് -20ഗ്രാം
+ശര്ക്കുര -50ഗ്രാം
+തേങ്ങ -ഒന്ന്
+കറിവേപ്പില -രണ്ട് തുണ്ട്
+ജീരകം -ഒരു ടീസ്പൂണ്‍
+കടുക് -25ഗ്രാം
+
+
+പാകം ചെയ്യുന്ന വിധം:
+ചേനയും കായും ചെറിയ കഷണങ്ങളാക്കി അരിയുക . ഇതിലേയ്ക്കു കടല, മഞ്ഞള്പൊുടി, പാകത്തിന് ഉപ്പ്, ശര്ക്കതര, കറിവേപ്പില എന്നിവ ചേര്ത്ത്ാ വേവിയ്ക്കുക. കഷണങ്ങള്‍ വെന്തു കഴിയുമ്പോള്‍ തേങ്ങ ജീരകം ചേര്ത്ത് അരച്ചത് ചേര്ക്കു ക. വെളിച്ചെണ്ണ ചൂടാക്കി കടുക്, ഉഴുന്നു പരിപ്പ് ,കറിവേപ്പില എന്നിവ ചേര്ത്തു താളിക്കുക. ഇതില്‍ അല്പം തേങ്ങ ചിരകിയതും ചേര്ക്കാം . ഇവ കഷണങ്ങളില്‍ നന്നായി യോജിപ്പിയ്ക്കുക"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="8.നാരങ്ങാക്കറി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/naranga1"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="നാരങ്ങ നല്ലെണ്ണയില്‍ വാട്ടി എടുക്കുക. വറ്റല്മുലളക്,കടുക്,കറിവേപ്പില ഇവ പൊട്ടിച്ച് അതില്‍ മുളകുപൊടി, കായം ,ഉലുവാപ്പൊടി എന്നിവ ചേര്ത്തികളക്കി ഉപ്പും വെള്ളവും ചേര്ത്ത് തിളപ്പിച്ച് വാങ്ങി വയ്ക്കുക. ശേഷം വാട്ടി വെച്ച നാരങ്ങ ചേര്ക്കു ക.നാരങ്ങാക്കറി ആയി. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="9.ഓലന്‍"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/oolan"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ചേരുവകള്‍
+
+വന്‍പയര്‍ – അര കപ്പ്‌
+വെള്ളം – അര കപ്പ്‌
+കുമ്പളങ്ങ കഷണങ്ങളാക്കിയത്‌ – ഒരു കപ്പ്‌
+പച്ചമുളക്‌ കുറുകെ പിളര്‍ന്നത്‌ – 3 എണ്ണം
+ചെറിയ ഉള്ളി നീളത്തില്‍ അരിഞ്ഞത് – 3-4 എണ്ണം
+ഉപ്പ്‌ – പാകത്തിന്‌
+തേങ്ങാപ്പാല്‍ – ഒരു കപ്പ്‌ (കൊക്കനട്ട് മില്‍ക്ക് പൌഡര്‍ ആണ് എങ്കില്‍ ഒരു കപ്പു ചൂട് വെള്ളത്തില്‍ 2 ടേബിള്‍സ്പൂണ്‍ പൌഡര്‍ ചേര്‍ത്ത് ഇളക്കുക.)
+കറിവേപ്പില – 2 തണ്ട്
+വെളിച്ചെണ്ണ – 11/2 ടേബിള്‍ സ്പൂണ്‍
+
+പാകം ചെയ്യേണ്ട വിധം
+
+വന്‍പയര്‍ ആറു മണിക്കൂര്‍ എങ്കിലും വെള്ളത്തില്‍ കുതിര്‍ത്ത്‌ എടുക്കുക. ഇത് നികക്കെ വെള്ളം ഒഴിച്ച് ഉപ്പും ചേര്‍ത്ത് കുക്കറില്‍ 5 മിനിറ്റ് വേവിക്കുക. ആവി പോയി കഴിയുമ്പോള്‍ തുറന്നു ഇതിലേക്ക് കുമ്പളങ്ങ, പച്ചമുളക്‌, ചെറിയ ഉള്ളി, അര കപ്പ്‌ വെള്ളം ആവശ്യമെങ്കില്‍ ഉപ്പ് എന്നിവ ചേര്‍ത്ത്‌ 2 വിസില്‍ വരുന്നത് വരെ വേവിക്കുക. ആവി പോയി കഴിയുമ്പോള്‍ വീണ്ടും തുറന്നു തേങ്ങാപ്പാല്‍ ഒഴിച്ച്‌ ചെറുതീയില്‍ ചൂടാക്കുക. അതിനുശേഷം വെളിച്ചെണ്ണയും കറിവേപ്പിലയും ചേര്‍ത്ത്‌ വാങ്ങിവയ്ക്കുക. ഓലന്‍ റെഡി. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="10.പരിപ്പ് പ്രഥമൻ"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/parippupradhm"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" ചെറുപയർ പരിപ്പ് - 1/2 കിലോ
+
+തേങ്ങ വലുത് - 2 ( ചെറുതെങ്കിൽ 4 എണ്ണം വേണം )
+
+നെയ്യ് - 4 സ്പൂണ്‍
+
+ശർക്കര - 1 കിലോ
+
+തേങ്ങാക്കൊത്ത് - 1/2 കപ്പ്‌
+
+കശുവണ്ടി
+
+ജീരകം വെയിലത്ത്‌ വച്ച് ചൂടാക്കി പൊടിച്ചത് - 1 സ്പൂണ്‍
+
+ഏലക്ക - 3/4 സ്പൂണ്‍
+
+ചുക്കുപൊടി - 1/4 സ്പൂണ്‍
+
+തേങ്ങ ചിരകി ഒന്ന് ചതച്ച് , പിഴിഞ്ഞ് 1 കപ്പ്‌ ഒന്നാം പാൽ എടുത്തു വയ്ക്കുക
+
+അല്പം കൂടി വെള്ളം ചേർത്ത് മിക്സിയിൽ അരച്ച് പിഴിഞ്ഞ് രണ്ടാം പാൽ എടുത്തു വയ്ക്കുക
+
+വീണ്ടും ഒന്നുകൂടി വെള്ളം ചേർത്ത് അരച്ച് പിഴിഞ്ഞ് മൂന്നാം പാലും എടുത്തു വയ്ക്കുക
+
+തേങ്ങാക്കൊത്തും കശുവണ്ടിയും നെയ്യിൽ നന്നായി വറുത്തു വയ്ക്കുക
+
+1/2 കിലോ ചെറുപയർ പരിപ്പ് നന്നായി വറുത്തെടുക്കുക. വല്ലാതെ ചുവപ്പ് നിറം ആകേണ്ട
+
+അല്പം വെള്ളവും 1 സ്പൂണ്‍ നെയ്യും ചേർത്ത് പരിപ്പ് വേവിച്ചെടുക്കുക .
+
+ഇതിലേക്ക് 1 കിലോ ശർക്കര അല്പം വെള്ളം ചേർത്ത് ഉരുക്കി അരിച്ചു ചേർക്കുക.( ഇത് സാധാരണ മധുരമാണ്,കൂടുതൽ വേണമെങ്കിൽ ശർക്കര കൂട്ടാം ).
+
+തിളച്ചു കുറുകി വന്നു കഴിഞ്ഞാൽ മൂന്നാം പാല് ചേർത്തിളക്കി കുറുക്കുക
+
+ഇനി രണ്ടാം പാല് ചേർത്ത് ഇളക്കി തിളപ്പിച്ച്‌ കുറുക്കുക
+
+പായസം പാകത്തിന് കുറുകുമ്പോൾ ഒന്നാം പാൽ ചേർത്ത് , ഇളക്കാതെ വാങ്ങി വയ്ക്കുക.
+
+ഏലക്കാ, ചുക്ക് ജീരകം ഇവ പൊടിച്ചതും തേങ്ങാക്കൊത്ത് നെയ്യിൽ വറുത്തതും ഇട്ടു പാത്രം മൂടി വയ്ക്കുക.
+
+30 മിനിറ്റ് കഴിഞ്ഞു മൂടി തുറന്നു ഇളക്കുക.
+
+ഇനി പ്രഥമൻ ആസ്വദിക്കാം
+----------------------------------
+മൂന്നാം പാൽ ഏറ്റവും കൂടുതലും , രണ്ടാം പാൽ അതിൽ കുറവും , ഒന്നാം പാൽ വളരെ കുറച്ചുമാണ് ഉണ്ടാവുക.
+
+പ്രഥമൻ കഴിക്കുകാന്നു വച്ചാൽ അത് ഇലയിൽ തന്നെ വേണം. പഴവും പപ്പടവുമൊക്കെ കൂട്ടി ഇലയിൽ ഉണ്ണുന്ന രുചി ഒന്ന് വേറെ തന്നെ . മധുരം കൊണ്ട് ചെകിടിച്ചാൽ ഒന്ന് തൊട്ടു നക്കാൻ അല്പം വടുകപ്പുളിയൻ നാരങ്ങാ കറിയും."
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="11.കട്ടി പരിപ്പ് കറി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/parip"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" തുവര അല്ലെങ്കില്‍ ചെറുപയര്‍ പരിപ്പ്- ഒരു കപ്പ്‌
+വെള്ളം- കട്ടിയായി കുറുകാന്‍ ആവശ്യത്തിന്
+മഞ്ഞള്‍ പൊടി- അര ടീസ്പൂണ്‍
+നെയ്യ്‌- രണ്ടു ടീസ്പൂണ്‍
+ഉപ്പ് ആവശ്യത്തിന്
+
+പരിപ്പ് ചെറുതായി ഒന്ന് വരുത്ത ശേഷം കഴുകിയെടുക്കുക. എന്നിട്ട് പരിപ്പിന് മുകളില്‍ വെള്ളം നില്ക്കുണന്ന വിധത്തില്‍ അര ടീസ്പൂണ്‍ മഞ്ഞ പൊടി ഇട്ടു വേവിക്കുക. വെള്ളം തിളക്കുമ്പോള്‍ തീ കുറക്കണം. (വെള്ളം കുറയുന്നതിന് അനുസരിച്ച് മാത്രം ഒഴിച്ചാല്‍ മതി. കൂടുതല്‍ ആയി പോവരുത്.) ചെറുതീയില്‍ വെന്തു കഴിയുമ്പോള്‍ ഉപ്പും നെയ്യും ചേര്ത്ത്്‌ നന്നായി ഇളക്കുക. കട്ടി പരിപ്പ് കറി റെഡി"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="12.പൈനാപ്പിള്‍ കിച്ചടി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/piappkichadi"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ചേരുവകള്‍
+പൈനാപ്പിള്‍ ചെറുതായി അരിഞ്ഞത് : ഒരു കപ്പ്.
+തേങ്ങ: ഒരു മുറിയുടെ പകുതി
+തൈര്: അര കപ്പ്
+പച്ചമുളക്: രണ്ടെണ്ണം
+വറ്റല്‍മുളക്: രണ്ടെണ്ണം
+ജീരകം: ഒരു നുള്ള്
+മുളക്പൊടി, മഞ്ഞള്‍പ്പൊടി, ഉപ്പ്: ആവശ്യത്തിന്
+കടുക്, കറിവേപ്പില,വെളിച്ചെണ്ണ: ആവശ്യത്തിന്
+
+പാചകം ചെയ്യുന്ന വിധം:
+
+പൈനാപ്പിള്‍ അല്‍പ്പം ഉപ്പും, മുളക്പൊടിയും, മഞ്ഞള്‍പ്പൊടിയും ചേര്‍ത്ത് വെള്ളമൊഴിച്ച് വേവിക്കുക. തേങ്ങ ചിരകിയത് രണ്ടു പച്ചമുളകും, അല്‍പ്പം ജീരകവും ചേര്‍ത്ത് തരിയില്ലാതെ അരയ്ക്കുക. അത് വെന്ത പൈനാപ്പിളിലേക്ക് ചേര്‍ത്ത് യോജിപ്പിക്കുക. തിളയ്ക്കാന്‍ തുടങ്ങുമ്പോള്‍, തൈര് മിക്സിയില്‍ അടിച്ചു ചേര്‍ക്കുക. ഒന്നുകൂടി തിളക്കുമ്പോള്‍, വെളിച്ചെണ്ണയില്‍ കടുക് പൊട്ടിച്ച്, വറ്റല്‍ മുളക് കഷണങ്ങളാക്കിയതും, കറിവേപ്പിലയുമിട്ട് മൂപ്പിച്ച് കറിയില്‍ താളിക്കുക....
+
+പൈനാപ്പിള്‍ കിച്ചടി റെഡി.. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="13.പുളിഇഞ്ചി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/puliinj"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" പുളി- കട്ടിയില്‍ പിഴിഞ്ഞെടുത്തത്
+വെളുത്തുള്ളി-2
+ചെറിയ ഉള്ളി-ഒരു കപ്പ്
+പച്ചമുളക്-നാല്
+ഇഞ്ചി-ഒരു ചെറിയ കഷ്ണം എന്നിവ ചെറുതായി അരിഞ്ഞെടുക്കുക.
+
+മുളകുപൊടി-അര സ്പൂണ്‍
+മഞ്ഞള്‍പൊടി-കാല്‍ സ്പൂണ്‍
+ശര്‍ക്കര-ഒരു കഷ്ണം
+കറിവേപ്പില
+ഉലുവ, കടുക്, വറ്റല്‍ മുളക്
+
+ഒരു പാത്രത്തില്‍ എണ്ണ ഒഴിച്ച് കടുക്, ഉലുവ ഇട്ടു പൊട്ടിച്ച ശേഷം അറിഞ്ഞു വച്ചിരിക്കുന്ന ചേരുവകള്‍ ചേര്‍ത്ത് നന്നായി വഴറ്റുക അതിലേക്കു പിഴിഞ്ഞ് വച്ചിരിക്കുന്ന പുളി,മുളകുപൊടി മഞ്ഞള്‍പൊടി, ശര്‍ക്കര എന്നിവ ചേര്‍ത്ത് തിളപ്പിക്കുക. നന്നായി തിളച്ചു വറ്റുമ്പോള്‍ കറിവേപ്പിലയും ഉപ്പും ചേര്‍ക്കുക "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="14.തക്കാളി-പരിപ്പ് രസം"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rasa"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ചുവന്ന പരിപ്പ്- 3-4 ടേബിള്‍ സ്പൂണ്‍
+തക്കാളി വലുത് – 4 (ചെറുതായി അരിഞ്ഞത്)
+വെള്ളുള്ളി ചതച്ചത്- 2 ടീ സ്പൂണ്‍
+ഇഞ്ചി ചതച്ചത്- 1 ടീ സ്പൂണ്‍
+വെള്ളം 2 1/2 കപ്പ്
+പച്ചമുളക്- 3-4 എണ്ണം (ചെറുതായി അരിഞ്ഞത്)
+മല്ലിയില- ഒരു പിടി
+ഉപ്പ് – ആവശ്യത്തിന്
+കുരുമുളക് ആവശ്യത്തിന്
+മഞ്ഞപ്പൊടി- 1/2 ടീ സ്പൂണ്‍
+കടുക്‌- 1 ടീ സ്പൂണ്‍
+പേരും ജീരകം- 1 ടീ സ്പൂണ്‍
+ഉണക്ക മുളക് 1-2 എണ്ണം
+പെരുംകായം ഒരു നുള്ള്
+കറി വേപ്പില – ഒരു തണ്ട്
+എണ്ണ- രണ്ടു ടേബിള്‍ സ്പൂണ്‍
+
+പരിപ്പ് വേവിച്ച് മാറ്റി വെക്കുക.
+
+ചട്ടിയില്‍ എണ്ണയൊഴിച്ച് ചൂടാകുമ്പോള്‍ കടുക്‌, ജീരകം, വേപ്പില, ഉണക്ക മുളക്, കായം എന്നിവ ഇടുക. കടുക്‌ പൊട്ടുമ്പോള്‍ ഇഞ്ചി, വെള്ളുള്ളി, പച്ച മുളക്, തക്കാളി എന്നിവ ഓരോന്നായി ചേര്ത്ത് നന്നായി വഴറ്റുക. പിന്നീട് മഞ്ഞപ്പൊടി, ഉപ്പ് എന്നിവ ചേര്ത്ത് ഇളക്കിയ ശേഷം വെള്ളം ഒഴിക്കുക. കുറഞ്ഞ തീയില്‍ അഞ്ചോ ആറോ മിനിറ്റ് കൂടി തിളപ്പിച്ച ശേഷം വേവിച്ച പരിപ്പിടുക. വെള്ളം കുറവെങ്കില്‍ മാത്രം ഒഴിക്കുക. രണ്ടോ മൂന്നോ മിനിറ്റ് കൂടി തിളപ്പിച്ച ശേഷം ഇറക്കി വെക്കുക. കൊത്തിയരിഞ്ഞ മല്ലിയില മുകളില്‍ വിതറി വിളമ്പാം.
+
+ "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="15.നാടന്‍ സാമ്പാര്‍"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/samba"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="തുവരപരിപ്പ് – ഒരു കപ്പ്‌
+മഞ്ഞള്‍പൊടി – ഒരു ടീസ്പൂണ്‍
+സവാള കഷണമാക്കിയത് – മൂന്ന്‍
+പച്ചമുളക് അറ്റം പിളര്‍ന്നത്‌ – നാല്
+ഉരുളകിഴങ് കഷണമാക്കിയത് – രണ്ട്
+മുരിങ്ങക്ക രണ്ടായ്‌ നീളത്തില്‍ പിളര്‍ന്നത് – മൂന്ന്എണ്ണം
+വഴുതനങ്ങ കഷണമാക്കിയത് – ഒന്ന്‍
+ചേന കഷണമാക്കിയത് – നൂറുഗ്രാം
+തക്കാളി കഷണമാക്കിയത് – രണ്ട്
+വെണ്ടയ്ക്കാ കഷണമാക്കിയത് - മൂന്നു
+
+ആവശ്യമായ മസാലകള്‍
+മല്ലിപൊടി – രണ്ട് ടേബിള്‍സ്പൂണ്‍
+പിരിയന്‍മുളകുപൊടി – ഒരു ടേബിള്‍സ്പൂണ്‍
+ജീരകം – ഒരു നുള്ള്
+ഉലുവ – അര ടി സ്പൂണ്‍
+കായം – അര മുതല്‍ ഒരുസ്പൂണ്‍ വരെ
+വാളന്‍പുളി – ഒരു നെല്ലികാ വലുപ്പത്തില്‍
+ഉപ്പ് – പാകത്തിന്
+
+താളിക്കാന്‍ ആവശ്യമായത് (കടുക് വറക്കുവാന്‍)
+കടുക്‌ – കാല്‍ ടീസ്പൂണ്‍
+ചുമന്നുള്ളി വട്ടത്തില്‍ അരിഞ്ഞത് – അഞ്ച്
+ഉണക്കമുളക് – രണ്ടു (കഷണമാക്കിയത്)
+കറിവേപ്പില – രണ്ടു തണ്ട്
+എണ്ണ – രണ്ടു ടേബിള്‍ സ്പൂണ്‍
+
+പാകം ചെയ്യുന്ന വിധം
+
+വാളന്‍പുളി വെള്ളം തയാറാക്കാന്‍
+പുളി അല്പം വെള്ളത്തില്‍ ഇട്ടു വെയ്ക്കുക .
+തുവരപരിപ്പ് ആവശ്യമായ മഞ്ഞള്‍പൊടിയും ഉപ്പും വെള്ളവും ചേര്‍ത്ത് പ്രഷര്‍കുക്കറില്‍ വേവിക്കുക.രണ്ടു വിസില്‍ മതിയാകും .ഇതിലേക്കു തക്കാളിയും വെണ്ടയ്ക്കയും ഒഴിച്ചുള്ള ബാക്കി പച്ചകറികള്‍ ചേര്‍ത്ത് പ്രഷര്‍കുക്കറില്‍ വേവിക്കുക.
+എണ്ണ ഒരു പാനില്‍ ചൂടാക്കി , കടുക്‌ ,ചുമന്നുള്ളി,ഉണക്കമുളക് ,കറിവേപ്പില ഇട്ടു വറക്കുക.കടുക്‌ പൊട്ടി കഴിയുമ്പോള്‍ , മല്ലിപൊടി ,ഉലുവ,ജീരകം ,മുളകുപൊടി,കായം ഇവ ചേര്‍ത്ത് ചെറുതായി ചൂടാക്കുക (പൊടികളുടെ പച്ചമണം മാറുവാന്‍ വേണ്ടിയാണ് ).അതിലേക്ക് പുളിപിഴിഞ്ഞ വെള്ളവും ചേര്‍ത്ത് ഒന്ന് തിളപ്പിക്കുക.തിളച്ചു കഴിയുമ്പോള്‍ ഇത് പ്രഷര്‍കുക്കറില്‍ വേവിച്ചു വെച്ചിരിക്കുന്നതില്ലേക്ക് ഒഴിക്കുക. ഇതേ പാനില്‍ അല്‍പം എണ്ണ ഒഴിച്ച് തക്കാളിയും വെണ്ടക്കയും വഴറ്റി പ്രഷര്‍കുക്കറില്‍ ചേര്‍ക്കുക.വീണ്ടും പ്രഷര്‍കുക്കര്‍ സ്റ്റൊവില്‍ വെച്ച് അഞ്ച് മിനിറ്റ് തിളപ്പിക്കുക .
+സാമ്പാര്‍ തയ്യാര്‍.വേണമെങ്കില്‍ അല്പം മല്ലിയില ചെറുതായി അരിഞ്ഞു ഇതിലേക്ക് ചേര്‍ക്കാം. "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="16.വന്പ യര്‍ മത്തങ്ങ എരിശ്ശേരി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/erissery"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" വന്പതയര്‍ - 50 ഗ്രാം
+മത്തങ്ങ - 250ഗ്രാം
+തേങ്ങ - 60ഗ്രാം
+ജീരകം -ഒരു ടീസ്പൂണ്‍
+മുളകുപൊടി - ഒരു ടീസ്പൂണ്‍
+മഞ്ഞള്പൊിടി - അര ടീസ്പൂണ്‍
+വെളിച്ചെണ്ണ - രണ്ടു ടീസ്പൂണ്‍
+വറ്റല്‍ മുളക് - രണ്ടെണ്ണം
+ചുവന്നുള്ളി - ഒന്ന്
+കടുക്, ഉപ്പ്‌ കറിവേപ്പില പാകത്തിന്
+
+വന്പ്യര്‍ ഇരട്ടി വെള്ളം ചേര്ത്ത്ന വേവിക്കാന്‍ വക്കുക. പകുതി വേവായാല്‍ മത്തങ്ങ അരിഞ്ഞതും മഞ്ഞള്‍ പൊടിയും മുളക് പൊടിയും ചേര്ക്കു ക. വെന്തു കഴിയുമ്പോള്‍ തേങ്ങയില്‍ മുക്കാല്‍ പങ്കും ജീരകവും കറിവേപ്പിലയും ചേര്ത്ത്ത തിളപ്പിക്കുക. എണ്ണ കടുക് തളിച്ച് ബാക്കി തേങ്ങയും ചുവക്കെ വറുത്തു ചേര്ക്കു ക."
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="17.മാമ്പഴ പുളിശ്ശേരി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mambazhapulissery"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text="ചേരുവകള്‍
+
+നല്ല പുളിയുള്ള പഴുത്ത മാമ്പഴം- 3 എണ്ണം
+നല്ല പുളിയുള്ള കട്ട തൈര്-1 കപ്പ്
+ഇഞ്ചി ചെറുതായി അരിഞ്ഞത്- 1 ടേബിള്‍ സ്പൂണ്‍
+പച്ച മുളക് നെടുകെ കീറിയത്- 6 എണ്ണം
+ചുവന്നുള്ളി വട്ടത്തില്‍ അരിഞ്ഞത്- 6 എണ്ണം
+തക്കാളി നാലായി കീറിയത്- 1 എണ്ണം
+നാടന്‍ വെളുത്തുള്ളി ചതച്ചത്- 5 അല്ലി
+കറിവേപ്പില- 1 ബഞ്ച്
+തേങ്ങ തിരുകിയത്-ഒരു കപ്പ് ( മൂക്കാത്ത പച്ച തേങ്ങ വേണം )
+ഉലുവ-ഒരു നുള്ള്
+കടുക്-1 നുള്ള്
+ജീരകം- ഒരു നുള്ള്
+മഞ്ഞള്‍ പൊടി-2 ടീസ്പൂണ്‍
+മുളക് പൊടി- 1 ടീസ്പൂണ്‍
+വെളിച്ചെണ്ണ- 2 ടേബിള്‍ സ്പൂണ്‍
+ഉപ്പ്-പാകത്തിന്
+വെള്ളം- മൂന്ന് കപ്പ്
+
+തയ്യാറാക്കുന്ന വിധം
+
+ആദ്യമായി പഴുത്ത മാമ്പഴം തൊലി കളഞ്ഞ് അണ്ടിയോട് കൂടി ഞെരടി ഒരു പാത്രത്തില്‍ വെക്കുക.
+ഇനി മിക്‌സിയില്‍ തിരുകിയ തേങ്ങ,മഞ്ഞള്‍ പൊടി,മുളക് പൊടി,പച്ചമുളക് എന്നിവയിട്ട് ഒരു കപ്പ് വെള്ളം ചേര്‍ത്ത് നല്ല അരയ്ക്കുക.
+ഈ അരപ്പും മാറ്റി വയ്ക്കുക. അടുപ്പത്ത് ചീന ചട്ടി വച്ച് ചൂടായതിനു ശേഷം കടുക് ഇട്ട് പൊട്ടിയതിന് ശേഷം അരിഞ്ഞു വച്ചിരിക്കുന്ന ചുവന്നുള്ളിയും, ഇഞ്ചിയും, വെളുത്തുള്ളിയും ഇട്ട് മൂപ്പിക്കുക.
+നന്നായി മൂത്ത് വരുമ്പോള്‍ ഉലുവയും, ജീരകവും, കറിവേപ്പിലയും ഇട്ട് മൂത്തതിന് ശേഷം അതില്‍ നാലായി കീറി വച്ചിരിക്കുന്ന തക്കാളി ഇട്ട് ഒന്ന് ചെറുതായി വഴറ്റുക.
+അരച്ച് വച്ചിരിക്കുന്ന അരപ്പ് അതിലേക്കു ഒഴിച്ച് രണ്ടു കപ്പ് വെള്ളവും ചേര്‍ത്ത് പച്ച ചുവ മാറുന്ന വരെ തിളപ്പിക്കുക.
+എന്നിട്ട് ഞെരടി വച്ചിരിക്കുന്ന മാമ്പഴം അതിലേക്ക് ഇട്ട് രണ്ടു മിനിട്ട് വെന്തതിനു ശേഷം അടുപ്പിലെ തീയണക്കുക.
+മാറ്റി വച്ചിരിക്കുന്ന കട്ട തൈര് അങ്ങനെ തന്നെ അതിലേക്ക് ഒഴിച്ച് ഇളക്കി ഉപ്പും ചേര്‍ത്ത് അടച്ചു വയ്ക്കുക. മാമ്പഴ പുളിശ്ശേരി റെഡി !! "
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="18.ശർക്കര വരട്ടി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sarkaravarety"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" വിളഞ്ഞ നേന്ത്രക്കായ കാലിഞ്ച് കനത്തില്‍ അരിഞ്ഞ് ചൂടുള്ള എണ്ണയില്‍ നന്നായി വറത്തെടുക്കുക. അടുപ്പില്‍ ഒരു പാത്രത്തില്‍ കുറച്ച് വെള്ളം വെച്ച് ശര്ക്കടര ഉരുക്കുക. ശര്ക്കലര നല്ല കട്ടിയായി വരുമ്പോള്‍ അതിലേയ്ക്ക് ചുക്ക് പൊടി, ജീരകപ്പൊടി, ഏലപ്പൊടി എന്നിവ ചേര്ത്ത്വ അടുപ്പില്‍ നിന്നും വാങ്ങിവെയ്ക്കുക. അതിലേയ്ക്ക് വറത്ത് വെച്ചിരിക്കുന്ന നേന്ത്രക്കായ ഇടുക. നേന്ത്രക്കായില്‍ ശര്ക്ക രപ്പാവ് നന്നായി പിടിച്ചാല്‍ വറത്ത അരിപ്പൊടിയും പഞ്ചസാരയും ചേര്ത്ത്ാ തണുക്കാന്‍ വയ്ക്കുക."
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+
+            android:text="19. ഉപ്പേരി"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/uppery"
+            android:layout_weight="0.02" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18dp"
+            android:text=" വിളഞ്ഞ നേന്ത്രക്കായ വട്ടത്തിലോ, നാലായോ കനം കുറച്ച് അരിഞ്ഞ് വയ്ക്കുക. ഒരു പാത്രം വെള്ളത്തില്‍ കുറച്ച് മഞ്ഞള്‍ കലക്കി അതിലേയ്ക്ക് അരിഞ്ഞ് വെച്ചിരിക്കുന്ന നേന്ത്രക്കായ ഇട്ട് വയ്ക്കണം. ഒരു പാത്രത്തില്‍ ഉപ്പ് കലക്കി വെക്കുക. അടുപ്പില്‍ ഒരു പാത്രത്തില്‍ എണ്ണ ചൂടാക്കുക. എണ്ണ നന്നായി ചൂടായി കഴിഞ്ഞാല്‍ തീ കുറയ്ക്കാം. മഞ്ഞള്വെ്ള്ളത്തില്‍ ഇട്ട് വെച്ചിരിക്കുന്ന നേന്ത്രക്കായ നന്നായി ഊറ്റിയെടുത്ത് ചൂടായ എണ്ണയില്‍ ഇട്ട് വറക്കുക. നന്നായി മൂത്ത് വരുമ്പോള്‍ ഉപ്പ് തളിച്ച് കോരിയെടുക്കുക."
+            android:textStyle="bold|italic" />
+
+
+    </LinearLayout>
+</ScrollView>
+
+

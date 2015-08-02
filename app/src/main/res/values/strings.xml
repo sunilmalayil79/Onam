@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Onam</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string name="nav_item_home">ഓണം</string>
+    <string name="nav_item_notifications">ഓണം സദ്യ </string>
+    <string name="nav_item_recipe">ഓണ പാചക കുറുപ്പുകൾ </string>
+    <string name="nav_item_friends">ഓണക്കളികൾ </string>
+    <string name="nav_item_arts">ഓണ അനുഷ്ഠാന കലകൾ </string>
+    <string name="nav_item_greeting"> ഓണ ആശംസകൾ  </string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_recipe</item>
+        <item>@string/nav_item_arts</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_greeting</item>
+
+    </string-array>
+    <string name="title_messages">ഓണം സദ്യ </string>
+    <string name="title_friends">ഓണക്കളികൾ  </string>
+    <string name="title_home">ഓണം </string>
+    <string name="title_recipe">ഓണ പാചക കുറുപ്പുകൾ  </string>
+    <string name="title_arts">ഓണ അനുഷ്ഠാന കലകൾ </string>
+    <string name="title_greeting">ഓണ ആശംസകൾ </string>
+</resources>

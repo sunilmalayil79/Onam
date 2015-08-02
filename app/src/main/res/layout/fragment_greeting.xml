@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mavelismile"
+            android:layout_weight="0.02" />
+        <TextView
+            android:id="@+id/label"
+            android:layout_alignParentTop="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="45dp"
+            android:text="ഓണം ആശംസകൾ"
+            android:textStyle="bold"
+            android:textColor="#ff0000ff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="24dp"
+            android:text="  'നിറപറയും... നിലവിളക്കും.... തുമ്പപ്പൂക്കളും  ....
+
+        ഒരുപിടി  നല്ല  ഓർമ്മകളും..... മനസ്സിൽ നിറച്ചു
+
+        ഒരുപാട്  സ്നേഹവുമായി.........വീണ്ടും  ഓണം  വന്നെത്തി ..........'
+
+        ലോകത്തിന്റെ  ഏതു  കോണിൽ  നിന്നും  മാതൃഭാഷയെ  മറക്കാത്ത
+        മലയാളികൾക്കായി  ....ഹ്രദയ പൂർവ്വം ഈ  തിരുവോണ സമ്മാനം  സമർപ്പിക്കുന്നു ..."
+
+
+
+            android:textStyle="bold|italic" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="22dp"
+
+            android:text="അഭിപ്രായങ്ങളും പോരായ്മകളും അറിയിക്കുക "
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000ff" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="24dp"
+            android:text="kochinsoft@gmail.com"
+            android:textStyle="bold|italic"
+            android:textColor="#ff0000"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textMultiLine"
+            android:hint="PLEASE MESSEGE IN THIS BOX"
+            android:textColor="#ff0000ff"
+            android:visibility="invisible"
+            android:id="@+id/emailmsg"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnsend"
+            android:textColor="#ff0000ff"
+            android:visibility="invisible"
+            android:text="സന്ദേ ശ ങ്ങൾ  അയക്കാം "/>
+
+    </LinearLayout>
+</ScrollView>
+
+
